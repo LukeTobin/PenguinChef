@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c8311e673e46484eb280c60e7452e79, type: 3}
+  m_Name: Dairy
+  m_EditorClassIdentifier: 
+  coverSprite: {fileID: 21300000, guid: c57324fcf61401a40ae7380106c4b49a, type: 3}
+  bundleData:
+  - {fileID: 11400000, guid: 4fede68f5235d504aa1188b1511b8e58, type: 2}
+  - {fileID: 11400000, guid: eb8453a8c43e61640b0e3231603935b9, type: 2}
+  - {fileID: 11400000, guid: 1a091dceb6b93004e810877512a43e80, type: 2}
+  - {fileID: 11400000, guid: 3ba4f7b179261c34b9ff1b363c787e74, type: 2}
